@@ -1,4 +1,4 @@
-# Simulator for City Transport Network
+# Simulator for Public City Transport Network
 
 ## Project Task
 **Area:** Object-Oriented Programming  
